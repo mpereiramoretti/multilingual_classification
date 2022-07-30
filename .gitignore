@@ -160,8 +160,7 @@ cython_debug/
 #.idea/
 
 # Data
-*.mp3
-*.tar
-*.tsv
+data/mls
+data/mozilla-mp3
 
 .DS_Store
